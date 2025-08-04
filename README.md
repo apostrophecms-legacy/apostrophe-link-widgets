@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-link-widgets
 
 A link widget for [ApostropheCMS](http://apostrophecms.org/).
